@@ -35,7 +35,7 @@ spec:
     stage ('Run Sonarqube'){
       steps{
         container('maven'){
-          sh 'mvn sonar:sonar -f ./complete/pom.xml'
+          //sh 'mvn sonar:sonar -f ./complete/pom.xml'
         }}}
   }
   post {
