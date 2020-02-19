@@ -10,7 +10,7 @@ application development. As you read more Spring Getting Started guides, you wil
 use cases for Spring Boot. This guide is meant to give you a quick taste of Spring Boot.
 If you want to create your own Spring Boot-based project, visit
 http://start.spring.io/[Spring Initializr], fill in your project details, pick your
-options, and download a bundled up project as a zap file.
+options, and download a bundled up project as a zip file.
 
 == What You Will build
 
